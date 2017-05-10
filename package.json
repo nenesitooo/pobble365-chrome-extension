@@ -1,0 +1,30 @@
+{
+  "name": "pobble365-everyday",
+  "version": "0.1.0",
+  "description": "Replace your new tab with Pobble 365' picture of the day",
+  "main": "app.js",
+  "keywords": [
+    "chrome-extension"
+  ],
+  "author": "@nenesitooo",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-node": "^4.2.2",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "eslintConfig": {
+    "extends": [
+      "standard"
+    ],
+    "plugins": [
+      "standard"
+    ],
+    "env": {
+      "browser": true
+    }
+  }
+}
