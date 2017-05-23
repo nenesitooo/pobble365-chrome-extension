@@ -16,5 +16,6 @@
   function render (resource) {
     document.body.style.backgroundImage = `url(${resource.picture_of_the_day.url}`
     document.querySelector('h1').textContent = resource.title
+    document.querySelector('span').textContent = resource.picture_of_the_day.credit
   }
 })()
