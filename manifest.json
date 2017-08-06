@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Pobble 365",
   "description": "Get some instant inspiration, every time you open a new tab. One picture. One teaching resource. Every day.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
